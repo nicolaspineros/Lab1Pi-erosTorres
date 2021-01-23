@@ -1,4 +1,8 @@
 FE DE ERRATAS
 
 
+<<<<<<< HEAD
 * El término de la página (por lo general) 15 es impreciso.
+=======
+* El tErmino de la pagima por lo general 15 es impreSiso.
+>>>>>>> 84553fdb6675ae3ff34b5790fff6c73d43794cb7
