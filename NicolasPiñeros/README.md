@@ -16,7 +16,7 @@ _el presente documento esta diseñado para mostrar informacion sobre **Nicolas P
 
 > Cursos
 >> Fisica Mecanica: [Universidad Nacional de Colombia][1]\
->> Matematicas: [Universidad Nacional de Colombia][1]\
+>> Matematicas: [Universidad Nacional de Colombia][1]
 
 
 [1]: https://unal.edu.co
