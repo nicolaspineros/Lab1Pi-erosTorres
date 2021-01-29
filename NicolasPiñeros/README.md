@@ -3,10 +3,10 @@
 _el presente documento esta diseñado para mostrar informacion sobre **Nicolas Piñeros**_
 
 ## Datos Generales
-- **Nombre:** Oscar Nicolas Piñeros Campo 
-- **Edad:** 21
-- **Pais:** Colombia
-- **Ciudad:** Bogotá
+1. **Nombre:** Oscar Nicolas Piñeros Campo 
+2. **Edad:** 21
+3. **Pais:** Colombia
+4. **Ciudad:** Bogotá
 
 ## Estudios
 
@@ -36,3 +36,13 @@ while(noSuccess)
           break;
 }
 ```
+---
+
+```
+while(alive){
+    eat();
+    sleep();
+    coffeeLoader();
+    code();
+    repeat();
+}
