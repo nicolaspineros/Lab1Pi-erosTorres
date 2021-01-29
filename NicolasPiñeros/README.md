@@ -14,9 +14,25 @@ _el presente documento esta diseñado para mostrar informacion sobre **Nicolas P
 * **Ingenieria de Sistemas:** [Escuela Colombiana de Ingenieria Julio Garavito](https://www.escuelaing.edu.co/es/) (en curso)
 * **Economia:** [Escuela Colombiana de Ingenieria Julio Garavito](https://www.escuelaing.edu.co/es/) (en curso)
 
-> Cursos
+> ### Cursos
 >> Fisica Mecanica: [Universidad Nacional de Colombia][1]\
 >> Matematicas: [Universidad Nacional de Colombia][1]
 
-
 [1]: https://unal.edu.co
+
+## Hobies 
+
+![Code](https://www.eschoolnews.com/files/2018/07/coding.jpg)
+![Soccer](https://www.prodirectsport.com/-/media/prodirect/project/global/more-sports/soccer.jpg)
+
+## Fav codes
+
+```
+while(noSuccess) 
+{
+    tryAgain();
+      
+    if(Dead)
+          break;
+}
+```
