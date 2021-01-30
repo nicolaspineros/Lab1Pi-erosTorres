@@ -46,3 +46,6 @@ while(alive){
     code();
     repeat();
 }
+```
+
+![gitbranching](blob:https://web.whatsapp.com/8506d4c7-d5e7-4a0a-a797-37f427b48c8c)
